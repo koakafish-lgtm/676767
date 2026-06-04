@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>性價比高的顯卡推薦</title>
+    <meta name="description" content="如果組電腦有需要購買顯卡的需求，並且對顯卡了解不多的話，可以參考這個網站的資訊，進而買到合適的顯卡。">
+    <meta name="keywords" content="顯卡, 高cp值顯卡, 過渡顯卡">
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
+        header { background: #333; color: #fff; padding: 1rem; text-align: center; }
+        nav { background: #444; color: #fff; padding: 0.5rem; text-align: center; }
+        nav a { color: #fff; margin: 0 15px; text-decoration: none; }
+        section { padding: 20px; border-bottom: 1px solid #ccc; }
+        .card-list { display: flex; flex-wrap: wrap; gap: 10px; }
+        .card-item { background: #f4f4f4; padding: 10px; border-radius: 5px; width: 200px; text-align: center; }
+        h2 { color: #2c3e50; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>性價比高的顯卡推薦</h1>
+    <p>推薦性價比高的顯卡，讓你買得精明、用得開心！</p>
+</header>
+
+<nav>
+    <a href="#series50">50系列</a>
+    <a href="#series40">40系列</a>
+    <a href="#series30">30系列</a>
+    <a href="#best-cp">性價比最高</a>
+</nav>
+
+<section id="series50">
+    <h2>50系列顯卡</h2>
+    <div class="card-list">
+        <div class="card-item">RTX 5060 Ti</div>
+        <div class="card-item">RTX 5070 Ti</div>
+        <div class="card-item">RTX 5080</div>
+        <div class="card-item">RTX 5090</div>
+    </div>
+</section>
+
+<section id="series40">
+    <h2>40系列顯卡</h2>
+    <div class="card-list">
+        <div class="card-item">RTX 4060 Ti</div>
+        <div class="card-item">RTX 4070 Ti Super</div>
+        <div class="card-item">RTX 4080</div>
+        <div class="card-item">RTX 4080 Super</div>
+        <div class="card-item">RTX 4090</div>
+    </div>
+</section>
+
+<section id="series30">
+    <h2>30系列顯卡</h2>
+    <div class="card-list">
+        <div class="card-item">RTX 3060 Ti</div>
+        <div class="card-item">RTX 3090</div>
+    </div>
+</section>
+
+<section id="best-cp" style="background-color: #e8f6f3;">
+    <h2>⭐ 性價比最高推薦</h2>
+    <p>以下是目前最值得入手的選擇：</p>
+    <div class="card-list">
+        <div class="card-item">RTX 3060 Ti</div>
+        <div class="card-item">RTX 4060 Ti</div>
+        <div class="card-item">RTX 4070 Ti Super</div>
+        <div class="card-item">RTX 5060 Ti</div>
+        <div class="card-item">RTX 5070 Ti</div>
+    </div>
+</section>
+
+<footer>
+    <p style="text-align: center; padding: 20px;">© 2024 賴柏安的個人網站設計專題</p>
+</footer>
+
+</body>
+</html>
